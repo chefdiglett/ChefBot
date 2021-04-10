@@ -1,4 +1,4 @@
-# ChefBot-BBCA
-The official ChefBot-BBCA repo
+# ChefBot
+The official ChefBot repo
 
 https://discord.gg/rbfU3zkAFt
